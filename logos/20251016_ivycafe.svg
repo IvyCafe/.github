@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <style>:root{paint-order:fill markers stroke}</style>
+  <rect transform="rotate(45)" x="106" y="-250" width="512" height="512" fill="#170b28"
+    stroke-linecap="round" stroke-linejoin="round" />
+  <g stroke="#fff">
+    <path d="m115 67c20 207 70 188 70 188l105 8e-4c30 0 77-66 77-188z" fill="#fff"
+      stroke-width="4" />
+    <path d="m330 75c214 10-7 136-9 142" fill="none" stroke-width="16" />
+  </g>
+  <g>
+    <rect x="38" y="244" width="42" height="130" ry="10" fill="#fff" />
+    <rect x="42" y="260" width="34" height="110" ry="10" fill="#d38d5f" />
+    <path d="m156-224a16 16 0 0 1-4 20 16 16 0 0 1-20-1 16 16 0 0 1-2-20 16 16 0 0 1 20-5l-7 14z"
+      transform="matrix(-.65 .8 -.8 -.6 0 0)" fill="#fd5" />
+  </g>
+  <g transform="translate(-8 -64)" fill="#fff" stroke="#fff" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="4">
+    <rect x="-26" y="368" width="20" height="90" ry="10" transform="rotate(-20)" />
+    <rect x="268" y="272" width="20" height="90" ry="10" transform="rotate(20)" />
+    <rect x="56" y="397" width="20" height="90" ry="10" transform="rotate(-20)" />
+    <rect x="355" y="236" width="20" height="160" ry="10" transform="rotate(20)" />
+  </g>
+  <g fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <rect x="266" y="346" width="6" height="34" />
+    <rect x="278" y="346" width="24" height="6" />
+    <rect x="278" y="374" width="24" height="6" />
+
+    <rect x="445" y="174" width="6" height="40" transform="rotate(25)" />
+    <rect x="484" y="-114" width="24" height="6" transform="rotate(60)" />
+
+    <rect x="362" y="342" width="6" height="42" />
+    <rect x="374" y="342" width="24" height="6" />
+    <rect x="374" y="360" width="24" height="6" />
+
+    <rect x="408" y="342" width="6" height="42" />
+    <rect x="420" y="342" width="24" height="6" />
+    <rect x="420" y="360" width="24" height="6" />
+    <rect x="420" y="378" width="24" height="6" />
+  </g>
+</svg>
